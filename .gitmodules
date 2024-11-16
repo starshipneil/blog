@@ -1,0 +1,4 @@
+[submodule "neilblog/public"]
+	path = neilblog/public
+	url = https://github.com/starshipneil/starshipneil.github.io.git
+	branch = main

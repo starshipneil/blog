@@ -1,0 +1,4 @@
+baseURL = 'https://starshipneil.github.io/'
+languageCode = 'en-us'
+title = "neil's blog"
+theme = "contrast-hugo"
